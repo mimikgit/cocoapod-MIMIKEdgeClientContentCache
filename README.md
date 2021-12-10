@@ -1,8 +1,8 @@
-# MIMIKEdgeClientCache
+# MIMIKEdgeClientContentCache
 
- MIMIKEdgeClientCache service library can help you interact with the following mimik services:
+ MIMIKEdgeClientContentCache service library can help you interact with the following mimik services:
 
- * Cache
+ * Content Cache
 
 ## Requirements
 ```
@@ -19,16 +19,10 @@ source 'https://github.com/CocoaPods/Specs.git'
 source 'https://github.com/mimikgit/cocoapod-edge-specs.git'
 ```
 
-For Xcode 12.5.x compatibility
+For Xcode 13.2.x compatibility
 
 ```swift
-pod 'MIMIKEdgeClientCache', '~> 12.5.1'
-```
-
-For Xcode 13.0.x compatibility
-
-```swift
-pod 'MIMIKEdgeClientCache', '~> 13.0.1'
+pod 'MIMIKEdgeClientContentCache', '~> 13.2.1'
 ```
 
 
@@ -36,7 +30,7 @@ pod 'MIMIKEdgeClientCache', '~> 13.0.1'
 
 mimik
 ```
-https://github.com/mimikgit/cocoapod-MIMIKEdgeClientCache
+https://github.com/mimikgit/cocoapod-MIMIKEdgeClientContentCache
 ```
 
 ## License
