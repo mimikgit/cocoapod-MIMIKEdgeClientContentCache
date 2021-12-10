@@ -1,0 +1,4 @@
+framework module MIMIKEdgeClientContentCache {
+  header "MIMIKEdgeClientContentCache-Swift.h"
+  requires objc
+}
