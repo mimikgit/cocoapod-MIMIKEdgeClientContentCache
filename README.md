@@ -8,7 +8,7 @@
 ```
 iOS 13.6+ device (simulators are not supported)
 
-Working Content Caching Gateway. Please see the macOS setup instructions in the README-macOS-GATEWAY.md file.
+A working Content Caching Gateway.
 ```
 
 ## Installation
@@ -27,10 +27,18 @@ For Xcode 13.2.x compatibility
 pod 'MIMIKEdgeClientContentCache', '~> 13.2.1'
 ```
 
-## Example app on Test Flight
-An example app showing the MIMIKEdgeClientContentCache library in action can be downloaded from a [Test Flight](https://testflight.apple.com/join/uLCPNxls) public link.
+## Content Caching Gateway Setup
 
-Please note that you will also have to setup a Content Caching Gateway on a macOS system. For Linux support, or any other questions please [contact mimik support](https://developer.mimik.com/support/)
+Please see the Content Caching Gateway setup instructions for macOS [here](https://github.com/mimikgit/cocoapod-MIMIKEdgeClientContentCache/blob/main/README-Content-Caching-Gateway-Setup-macOS.md)
+
+For Linux support or any other questions please [contact mimik support](https://developer.mimik.com/support/)
+
+## Example application on Test Flight
+An example app showing the MIMIKEdgeClientContentCache library in action can be downloaded from this [Test Flight](https://testflight.apple.com/join/uLCPNxls) public link.
+
+You can find out more about the example application in [README-Example-App-Test-Flight](https://github.com/mimikgit/cocoapod-MIMIKEdgeClientContentCache/blob/main/README-Example-App-Test-Flight.md)
+
+Please note that in order to use the example application you will have setup a Content Caching Gateway as described here: [Requirements](#Requirements).
 
 
 ## Author
