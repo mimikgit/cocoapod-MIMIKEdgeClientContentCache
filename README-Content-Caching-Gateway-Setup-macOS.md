@@ -70,7 +70,13 @@ Also modify the `MUPCOMINGFEED_BASE_URL` and `SHADOWFEED_BASE_URL` values to bot
 Confirm that `edgeEngine`, `download-manager` and `webhoot-agent` are all running in their own terminals 
 ![](screenshots/09.png)
 
-## Running example application
+## Content Caching Example application on Test Flight
+A content caching example app showing the MIMIKEdgeClientContentCache library in action can be downloaded from this [Test Flight](https://testflight.apple.com/join/uLCPNxls) public link.
+
+You can find out more about the example application in [README-Example-App-Test-Flight](https://github.com/mimikgit/cocoapod-MIMIKEdgeClientContentCache/blob/main/README-Example-App-Test-Flight.md)
+
+
+## Running Content Caching Example Example Application
 Now you are ready to start the iOS Content Caching example application.
 
 When prompted on startup, paste in the same `developerIdToken` and `nodeId` values. 
