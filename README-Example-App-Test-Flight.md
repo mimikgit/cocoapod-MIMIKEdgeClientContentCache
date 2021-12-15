@@ -29,7 +29,9 @@ Use the Content Caching example application for iOS to experience the following:
 
 ## Content Caching Gateway setup for macOS
 
-Please see the Content Caching Gateway setup instructions for macOS [here](https://github.com/mimikgit/cocoapod-MIMIKEdgeClientContentCache/blob/main/README-Content-Caching-Gateway-Setup-macOS.md)
+Please see the Content Caching Gateway setup instructions for macOS in [README-Content-Caching-Gateway-Setup-macOS](https://github.com/mimikgit/cocoapod-MIMIKEdgeClientContentCache/blob/main/README-Content-Caching-Gateway-Setup-macOS.md)
+
+For Linux support or any other questions please [contact mimik support](https://developer.mimik.com/support/)
 
 ## mimik developer account registration
 Create a mimik developer account and sign in to the mimik developer console at
