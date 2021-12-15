@@ -29,7 +29,7 @@ pod 'MIMIKEdgeClientContentCache', '~> 13.2.1'
 
 ## Content Caching Gateway Setup
 
-Please see the Content Caching Gateway setup instructions for macOS [here](https://github.com/mimikgit/cocoapod-MIMIKEdgeClientContentCache/blob/main/README-Content-Caching-Gateway-Setup-macOS.md)
+Please see the Content Caching Gateway setup instructions for macOS in [README-Content-Caching-Gateway-Setup-macOS](https://github.com/mimikgit/cocoapod-MIMIKEdgeClientContentCache/blob/main/README-Content-Caching-Gateway-Setup-macOS.md)
 
 For Linux support or any other questions please [contact mimik support](https://developer.mimik.com/support/)
 
