@@ -33,13 +33,12 @@ Please see the Content Caching Gateway setup instructions for macOS [here](https
 
 For Linux support or any other questions please [contact mimik support](https://developer.mimik.com/support/)
 
-## Example application on Test Flight
-An example app showing the MIMIKEdgeClientContentCache library in action can be downloaded from this [Test Flight](https://testflight.apple.com/join/uLCPNxls) public link.
+## Content Caching Example application on Test Flight
+A content caching example app showing the MIMIKEdgeClientContentCache library in action can be downloaded from this [Test Flight](https://testflight.apple.com/join/uLCPNxls) public link.
 
 You can find out more about the example application in [README-Example-App-Test-Flight](https://github.com/mimikgit/cocoapod-MIMIKEdgeClientContentCache/blob/main/README-Example-App-Test-Flight.md)
 
 Please note that in order to use the example application you will have setup a Content Caching Gateway as described here: [Requirements](#Requirements).
-
 
 ## Author
 

@@ -1,3 +1,8 @@
+## Content Caching Example application on Test Flight
+A content caching example app showing the MIMIKEdgeClientContentCache library in action can be downloaded from this [Test Flight](https://testflight.apple.com/join/uLCPNxls) public link.
+
+Please note that in order to use the example application you will have setup a Content Caching Gateway as described here: [Requirements](#Requirements).
+
 ## Requirements
 ```
 iOS 13.6+ device (simulators are not supported)
