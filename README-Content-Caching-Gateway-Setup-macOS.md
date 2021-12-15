@@ -1,4 +1,15 @@
 # Content Caching Gateway Setup for macOS.
+
+## Prepare The Setup Files
+Download the Content Caching Gateway Setup [zip file](https://github.com/mimikgit/cocoapod-MIMIKEdgeClientContentCache/blob/main/content-caching-gateway-setup-for-macOS.zip)
+
+Unzip the file somewhere on your macOS system.
+
+Enter the root directory of the unzipped folder in a terminal window. 
+
+Follow the instructions below.
+
+
 ## Starting edgeEngine
 Check if `.edge` or `downloads` folders already exists in the root of the setup folder. This would indicate a pre-existing setup as these folders get created the first time you run `start-edge.sh` and cache the first content. Delete them if you'd like to start the setup from scratch.
 ```
