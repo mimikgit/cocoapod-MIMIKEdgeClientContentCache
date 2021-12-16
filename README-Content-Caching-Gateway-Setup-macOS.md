@@ -75,6 +75,14 @@ A content caching example app showing the [MIMIKEdgeClientIdentity](https://gith
 
 You can find out more about the example application in [README-Example-App-Test-Flight](https://github.com/mimikgit/cocoapod-MIMIKEdgeClientContentCache/blob/main/README-Example-App-Test-Flight.md)
 
+## MIMIK CocoaPods used in the Content Caching Example application
+
+[MIMIKEdgeClient](https://github.com/mimikgit/cocoapod-MIMIKEdgeClient)
+
+[MIMIKEdgeClientIdentity](https://github.com/mimikgit/cocoapod-MIMIKEdgeClientIdentity)
+
+[MIMIKEdgeClientContentCache](https://github.com/mimikgit/cocoapod-MIMIKEdgeClientContentCache)
+
 
 ## Running Content Caching Example Example Application
 Now you are ready to start the iOS Content Caching example application.
