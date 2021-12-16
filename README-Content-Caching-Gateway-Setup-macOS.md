@@ -71,7 +71,7 @@ Confirm that `edgeEngine`, `download-manager` and `webhoot-agent` are all runnin
 ![](screenshots/09.png)
 
 ## Content Caching Example application on Test Flight
-A content caching example app showing the MIMIKEdgeClientContentCache library in action can be downloaded from this [Test Flight](https://testflight.apple.com/join/uLCPNxls) public link.
+A content caching example app showing the [MIMIKEdgeClientIdentity](https://github.com/mimikgit/cocoapod-MIMIKEdgeClientIdentity) library in action can be downloaded from this [Test Flight](https://testflight.apple.com/join/uLCPNxls) public link. You will need to open the link on an iOS device.
 
 You can find out more about the example application in [README-Example-App-Test-Flight](https://github.com/mimikgit/cocoapod-MIMIKEdgeClientContentCache/blob/main/README-Example-App-Test-Flight.md)
 
