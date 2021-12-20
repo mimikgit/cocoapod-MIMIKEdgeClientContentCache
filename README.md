@@ -40,6 +40,9 @@ You can find out more about the example application in [README-Example-App-Test-
 
 Please note that in order to use the example application you will have setup a Content Caching Gateway as described here: [Requirements](#Requirements).
 
+## Video with more info
+There is a short 5 minute video containing additional information available [on Vimeo](https://vimeo.com/658019639/79000e2f95). It explains how the Content Cache library, content caching gateway and content caching example application fit together.
+
 ## Author
 
 mimik
