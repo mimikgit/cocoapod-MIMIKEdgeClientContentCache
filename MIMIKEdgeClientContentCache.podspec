@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "MIMIKEdgeClientContentCache"
-  s.version      = "13.2.1"
+  s.version      = "13.2.5"
   s.summary      = "mimik content cache library"
 
   s.description  = <<-DESC
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
 
   s.vendored_frameworks = "MIMIKEdgeClientContentCache.framework"
 
-  s.dependency 'MIMIKEdgeClient', '~> 13.2.1'
+  s.dependency 'MIMIKEdgeClient', '~> 13.2.5'
   s.dependency 'Alamofire', '~> 5.4.4'
   s.dependency 'SwiftyJSON', '~> 5.0.1'
 
